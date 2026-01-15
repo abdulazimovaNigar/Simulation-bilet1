@@ -1,4 +1,6 @@
-﻿namespace Bilet1.ViewModels
+﻿using Bilet1.Models;
+
+namespace Bilet1.ViewModels
 {
     public class TeamMemberGetVM
     {
@@ -6,5 +8,7 @@
         public string Name { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public string Image { get; set; } = string.Empty;
+        public string MemberPositionName { get; set; } = string.Empty;
+        
     }
 }

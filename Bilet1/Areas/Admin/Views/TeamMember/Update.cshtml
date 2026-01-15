@@ -1,0 +1,30 @@
+﻿@using Bilet1.ViewModels
+@model TeamMemberCreateVM
+
+<div class="container">
+    <div class="row">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Name" for="exampleInputEmail1">Member position name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter member position name">
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" for="exampleInputEmail1">Member position name</label>
+                <input asp-for="Description" class="form-control" placeholder="Enter member position name">
+                <span asp-validation-for="Description"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" for="exampleInputEmail1">Member position name</label>
+                <input asp-for="Image" class="form-control" placeholder="Enter member position name">
+                <span asp-validation-for="Image"></span>
+            </div>
+            <div class="form-group">
+                <select asp-for="MemberPositionId" class="form-control" asp-items="@ViewBag.MemberPositions">
+                </select>
+                <span asp-validation-for="MemberPositionId"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Update</button>
+        </form>
+    </div>
+</div>
