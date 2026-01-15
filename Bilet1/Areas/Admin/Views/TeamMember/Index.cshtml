@@ -1,0 +1,36 @@
+﻿@using Bilet1.ViewModels
+@model List<TeamMemberGetVM>
+
+<div class="container">
+	<div class="row">
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">Id</th>
+					<th scope="col">Name</th>
+					<th scope="col">Description</th>
+					<th scope="col">Image</th>
+					<th scope="col">Actions</th>
+
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var teamMember in Model)
+				{
+					<tr>
+						<th scope="row">@teamMember.Id</th>
+						<td>@teamMember.Name</td>
+						<td>@teamMember.Description</td>
+						<td><img src="~/img/@teamMember.Image" /></td>
+						<td>
+							<a asp-route-id="@teamMember.Id" class="btn btn-warning" asp-action="Update">Update</a>
+							<a asp-route-id="@teamMember.Id" class="btn btn-danger" asp-action="Delete">Delete</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>
+
+

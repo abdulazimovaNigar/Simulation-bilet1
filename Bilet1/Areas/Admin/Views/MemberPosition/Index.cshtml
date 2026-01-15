@@ -1,5 +1,5 @@
 ﻿@using Bilet1.ViewModels
-@model List<MemberPositionVM>
+@model List<MemberPositionGetVM>
 
 <div class="container">
     <div class="row">
@@ -19,8 +19,8 @@
                         <th scope="row">@memberPosition.Id</th>
                         <td>@memberPosition.Name</td>
                         <td>
-                            <a asp-for="Update" asp-route-id="@memberPosition.Id" class="btn btn-warning">Update</a>
-                            <a asp-for="Delete" asp-route-id="@memberPosition.Id" class="btn btn-danger">Delete</a>
+                            <a asp-route-id="@memberPosition.Id" class="btn btn-warning" asp-action="Update">Update</a>
+                            <a asp-route-id="@memberPosition.Id" class="btn btn-danger" asp-action="Delete">Delete</a>
                         </td>
                     </tr>
                 }

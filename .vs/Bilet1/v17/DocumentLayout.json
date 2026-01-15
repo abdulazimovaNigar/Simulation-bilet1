@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\areas\\admin\\controllers\\memberpositioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\areas\\admin\\controllers\\memberpositioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\areas\\admin\\views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\areas\\admin\\views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\viewmodels\\teammembercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\viewmodels\\teammembercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\areas\\admin\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\areas\\admin\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\viewmodels\\teammembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\viewmodels\\teammembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|d:\\2442r\\cff\\csharp\\bilet1\\bilet1\\bilet1\\areas\\admin\\views\\memberposition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926BE756-E2C8-4B0B-828F-A6F2DDAA270F}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\areas\\admin\\views\\memberposition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,102 +33,89 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 460,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 485,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMemberCreateVM.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\ViewModels\\TeamMemberCreateVM.cs",
+              "RelativeDocumentMoniker": "Bilet1\\ViewModels\\TeamMemberCreateVM.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\ViewModels\\TeamMemberCreateVM.cs",
+              "RelativeToolTip": "Bilet1\\ViewModels\\TeamMemberCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:53:18.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamMemberVM.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\ViewModels\\TeamMemberVM.cs",
+              "RelativeDocumentMoniker": "Bilet1\\ViewModels\\TeamMemberVM.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\ViewModels\\TeamMemberVM.cs",
+              "RelativeToolTip": "Bilet1\\ViewModels\\TeamMemberVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:49:35.936Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\MemberPosition\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\MemberPosition\\Index.cshtml",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\MemberPosition\\Index.cshtml",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\MemberPosition\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T13:49:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Team\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Views\\Team\\Index.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Team\\Index.cshtml",
-              "RelativeToolTip": "Bilet1\\Views\\Team\\Index.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAhwFIAAABDAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\TeamMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\TeamMember\\Index.cshtml",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\TeamMember\\Index.cshtml",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\TeamMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T10:03:51.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "Bilet1\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAAAI8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T10:03:45.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TeamController.cs",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Controllers\\TeamController.cs",
-              "RelativeDocumentMoniker": "Bilet1\\Controllers\\TeamController.cs",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Controllers\\TeamController.cs",
-              "RelativeToolTip": "Bilet1\\Controllers\\TeamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:03:30.616Z",
+              "WhenOpened": "2026-01-15T13:49:47.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "Bilet1\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "Bilet1\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwD0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:03:15.366Z",
+              "WhenOpened": "2026-01-15T13:49:29.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Bilet1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T09:54:53.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Bilet1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T09:53:56.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\appsettings.json",
-              "RelativeDocumentMoniker": "Bilet1\\appsettings.json",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\appsettings.json",
-              "RelativeToolTip": "Bilet1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T09:49:51.09Z",
+              "DocumentIndex": 0,
+              "Title": "MemberPositionController.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\MemberPositionController.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\MemberPositionController.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\MemberPositionController.cs",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\MemberPositionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:43:25.906Z",
               "EditorCaption": ""
             }
           ]
