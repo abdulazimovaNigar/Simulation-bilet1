@@ -1,0 +1,32 @@
+﻿@using Bilet1.ViewModels
+@model List<MemberPositionVM>
+
+<div class="container">
+    <div class="row">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Actions</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var memberPosition in Model)
+                {
+                    <tr>
+                        <th scope="row">@memberPosition.Id</th>
+                        <td>@memberPosition.Name</td>
+                        <td>
+                            <a asp-for="Update" asp-route-id="@memberPosition.Id" class="btn btn-warning">Update</a>
+                            <a asp-for="Delete" asp-route-id="@memberPosition.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+	</div>
+</div>
+
+

@@ -1,3 +1,6 @@
+using Bilet1.Contexts;
+using Microsoft.EntityFrameworkCore;
+
 namespace Bilet1
 {
     public class Program
@@ -8,6 +11,8 @@ namespace Bilet1
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("NAA")));
 
             var app = builder.Build();
 
@@ -26,6 +31,12 @@ namespace Bilet1
 
             app.UseAuthorization();
 
+
+            app.MapControllerRoute(
+                name: "areas",
+                  pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+
+            app.Run();
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
